@@ -41,7 +41,7 @@ For Role Services, it shows the different service installations, such as options
    <br />
 </p>
 
-s
+
 
 4. <p align="center">
    <img src="https://i.imgur.com/7WpZ5B1.png" height="80%" width="80%" alt="Disk Sanitization Steps 4"/>
@@ -113,7 +113,7 @@ Make sure to uncheck "Share this printer," then click Next and finally select Fi
     <br />
 </p>
 
-s
+
 
 13. <p align="center">
     <img src="https://i.imgur.com/6ZVsb0L.png" height="80%" width="80%" alt="Disk Sanitization Steps 13"/>
@@ -185,7 +185,7 @@ Let's verify that by going to Active Directory Users and Computers, right-clicki
     <br />
 </p>
 
-s
+
 
 22. <p align="center">
     <img src="https://i.imgur.com/SzROBgh.png" height="80%" width="80%" alt="Disk Sanitization Steps 22"/>
@@ -209,7 +209,6 @@ Now that the printer is in the directory, let's log into Desktop2 as Bob and ins
     <br />
 </p>
 
-s
 
 25. <p align="center">
     <img src="https://i.imgur.com/H1IpjR7.png" height="80%" width="80%" alt="Disk Sanitization Steps 25"/>
@@ -219,12 +218,7 @@ s
 
 Congratulations! We have successfully added a printer on our Server 2022 domain and explored file and printer security through NTFS permissions for effective access control.
 
-Next Lab 13 : [**Understanding Tickets Using Spiceworks**](https://www.notion.so/Lab13)
-
-
-
-
-
+[Next Lab 13 : Understanding Tickets Using Spiceworks](https://www.notion.so/Lab13)
 
 
 
