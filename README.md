@@ -218,7 +218,7 @@ Now that the printer is in the directory, let's log into Desktop2 as Bob and ins
 
 Congratulations! We have successfully added a printer on our Server 2022 domain and explored file and printer security through NTFS permissions for effective access control.
 
-[Next Lab 13 : Understanding Tickets Using Spiceworks](https://www.notion.so/Lab13)
+[Next Lab 13 : Understanding Tickets Using Spiceworks](https://github.com/Simokid/Understanding-Tickets-Using-Spiceworks/blob/main/README.md)
 
 
 
