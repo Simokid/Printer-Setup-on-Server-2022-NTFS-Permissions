@@ -7,8 +7,6 @@ This repository documents my home lab focused on **Printer Setup on Server 2022*
 - **Printer Setup on Server 2022:** Learn how to install and configure printers on Windows Server 2022 and share them with network users.
 - **NTFS Permissions:** Understand how to set and manage NTFS file permissions for controlling access to shared resources on the server.
 - **Printer Sharing:** Configure printer sharing and permissions to ensure that only authorized users can access and print to the shared printers.
-- **VirtualBox Environment:** Set up a virtualized lab environment using VirtualBox, simulating a network with Windows Server 2022 and client machines to test printer and permission configurations.
-
 
 <h1> Documentation</h1>
 
